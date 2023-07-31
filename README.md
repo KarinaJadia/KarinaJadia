@@ -1,3 +1,5 @@
-Hello! This is me but you will not be able to see anything because I just have a bunch of really bad really tiny private repositories and I will update this probably never because I just realized I haven't made anything here and this is definitely not going to help me with anything.
+Disclaimer:
 
-This is basically where I back up my code, but maybe one day it will be a public portfolio. Check back in a few years and maybe you will see some public projects! But don't keep your hopes up.
+Before you poke around, know that I know that these are all really simple basic easy projects. These (mainly my Other-Projects folder) are fun little goofy things that I like to do for fun and take like ten minutes to make and aren't complicated or cool. I still like them and am not embarrassed but it is important that you know that I know that these are pretty basic.
+
+Think of this not as an art gallery of my best, finished works but as a sketchbook of fun little doodles.
